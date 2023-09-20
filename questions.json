@@ -1,0 +1,67 @@
+ [
+    {
+        "question": "What is my favorite color?",
+        "choice1": "black",
+        "choice2": "red",
+        "choice3" : "blue",
+        "choice4": "white",
+        "answer": 1
+    },
+    
+    {
+        "question": "What is my favorite book so far?",
+        "choice1": "Things We Never Got Over",
+        "choice2": "Terms and Conditions",
+        "choice3": "Twisted Lies",
+        "choice4": "Cat and Mouse / duet",
+        "answer": 4
+    },
+    {
+        "question": "What is my favorite cuisine?",
+        "choice1": "Korean",
+        "choice2": "Pakistani",
+        "choice3": "American",
+        "choice4": "Chinese",
+        "answer": 1
+    },
+    {
+        "question": "Which car is my favorite?",
+        "choice1": "Supra",
+        "choice2": "Nissan Z",
+        "choice3": "Porsche",
+        "choice4": "Civic",
+        "answer": 2
+    },
+    {
+     "question" : "Which genre is my favorite?",
+     "choice1" : "Sci-Fi",
+     "choice2" : "Horror",
+     "choice3" : "Rom-Com",
+     "choice4" : "Documentaries",
+     "answer" : 3
+     },
+     {
+    "question" : "Which is my favorite season?",
+     "choice1" : "Winter",
+     "choice2" : "Summer",
+     "choice3" : "Autumn",
+     "choice4" : "Spring",
+     "answer" : 1
+     },
+     {
+        "question" : "What do I like doing when I have nothing to do?",
+        "choice1" : "Read Books",
+        "choice2" : "Watch Series",
+        "choice3" : "Cook Food",
+        "choice4" : "sleep",
+        "answer" : 1
+     },
+     {
+        "question" : "If I won a lottery, what do you think I would spend it on?",
+        "choice1" : "Travel the World",
+        "choice2" : "Build a Library with lifetime supply of food",
+        "choice3" : "Buy my Dream Cars and Bikes",
+        "choice4" : "All of the above",
+        "answer" : 4
+     }
+    ]
